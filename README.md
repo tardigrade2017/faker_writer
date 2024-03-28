@@ -9,3 +9,5 @@ Therefore, developing a lightweight model capable of fine-tuning ChatGPT is of p
 
 # Data
 Hundreds of thousands of data entries originate from the Chinese Internet. We have successfully employed these data to rectify Wenxin Yiyuan's linguistic patterns through fine-tuning.
+
+[example](https://github.com/tardigrade2017/faker_writer/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-28%20145028.png)
